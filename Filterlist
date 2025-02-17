@@ -104,6 +104,11 @@ https://raw.githubusercontent.com/LittleJake/ip-blacklist/refs/heads/main/abusei
 https://raw.githubusercontent.com/LittleJake/ip-blacklist/refs/heads/main/all_blacklist.txt
 https://raw.githubusercontent.com/LittleJake/ip-blacklist/refs/heads/main/neucert_blacklist_ip.txt
 https://raw.githubusercontent.com/LittleJake/ip-blacklist/refs/heads/main/ustc_blacklist_ip.txt
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/darklist_de.netset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/firehol_abusers_1d.netset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/firehol_abusers_30d.netset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/iblocklist_isp_sprint.netset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/iblocklist_isp_att.netset
 https://raw.githubusercontent.com/HotCakeX/Official-IANA-IP-blocks/main/TXT/IPV4/AF.txt
 https://raw.githubusercontent.com/HotCakeX/Official-IANA-IP-blocks/main/TXT/IPV4/AL.txt
 https://raw.githubusercontent.com/HotCakeX/Official-IANA-IP-blocks/main/TXT/IPV4/DZ.txt
